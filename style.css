@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -52,4 +53,14 @@ h1{
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 1px 1px 1px rgb(196, 176, 176);
+}
+.dev-limit{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.global-comm{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    display: flex;
 }
