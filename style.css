@@ -14,6 +14,9 @@ h1{
     text-align: center;
 
 }
+section{
+    margin-bottom: 100px;
+}
 .cyan-color{
     color: rgb(235, 133, 138);
 }
