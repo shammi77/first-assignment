@@ -5,9 +5,22 @@ body{
 h1{
     font-size: 50px;
 }
-.cyan-color{
-    color: rgb(207, 60, 68);
+#header-left{
+    border-left: 5px solid;
+    border-image: orange;
+    border-image-slice: 1;
 }
+#text-middle{
+    text-align: center;
+
+}
+.cyan-color{
+    color: rgb(235, 133, 138);
+}
+#orange-color{
+    color: rgb(235,133, 138);
+}
+
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
@@ -63,4 +76,9 @@ h1{
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     display: flex;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
 }
